@@ -11,5 +11,5 @@ cd /tmp
 dilbert
 if [ $? -eq 0 ]
 then
-    $VIEWER dilbert-0.png
+    $VIEWER dilbert-0.gif
 fi
